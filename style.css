@@ -93,6 +93,17 @@ background-color:#F9F9F9;
 
 #circles{
     display: flex;
-    gap: 500px;
+    gap: 100px;
     margin-bottom: 150px;
+    margin-left: 250px;
+}
+
+
+#flowers{
+    margin-left: 350px;
+}
+
+#Spring{
+font-size: 40px;
+margin-left: 260px;
 }
